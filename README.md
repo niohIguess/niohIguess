@@ -5,3 +5,4 @@
 
 #### Links
 [Cryptohack](https://cryptohack.org/user/niohIguess/)
+[Rosalind](https://rosalind.info/users/ADNioh/)
