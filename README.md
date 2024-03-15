@@ -1,7 +1,7 @@
 ### Hi there 👋
 
  - I’m currently learning : C and Python
- - I'm interested in bioinformatics, cryptography, rom hacking, cybersecurity and embedded programming
+ - I'm interested in bioinformatics, cybersecurity, data science, and sometimes other stuff
 
 #### Links
 [Cryptohack](https://cryptohack.org/user/niohIguess/)
