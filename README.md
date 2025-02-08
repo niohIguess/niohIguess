@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- - I’m currently learning : C and Python
+ - I’m currently learning : C, Python and Scheme
  - I'm interested in bioinformatics, cybersecurity, data science, and sometimes other stuff
 
 #### Links
